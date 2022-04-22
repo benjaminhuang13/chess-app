@@ -4,6 +4,12 @@
   grid-template-rows: repeat(8, 100px);
   width: 800px;
   height: 800px;
-  background-color: blue;
-}
+  /* background-color: blue; */
 
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
