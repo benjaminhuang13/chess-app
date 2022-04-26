@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chess-app/static/css/main.03097de6.css",
+    "main.js": "/chess-app/static/js/main.99774e2e.js",
+    "static/js/787.fb9c7072.chunk.js": "/chess-app/static/js/787.fb9c7072.chunk.js",
+    "static/media/rook_b.svg": "/chess-app/static/media/rook_b.11b82bbd54650e60c08608b80aa3b8cc.svg",
+    "static/media/horse_b.svg": "/chess-app/static/media/horse_b.7930be9e07b51bc0e069b1d77e31261a.svg",
+    "static/media/king_b.svg": "/chess-app/static/media/king_b.5b14c13b083205b43351276ad72f5e49.svg",
+    "static/media/queen_b.svg": "/chess-app/static/media/queen_b.310fe3e250ab4485dee47268e196e8da.svg",
+    "static/media/king_w.svg": "/chess-app/static/media/king_w.a1e6563df9c1125460efd9b0682670b3.svg",
+    "static/media/horse_w.svg": "/chess-app/static/media/horse_w.d47944d2cee4f8c707d1907706c142fa.svg",
+    "static/media/bishop_w.svg": "/chess-app/static/media/bishop_w.cf781aa194cfdc1a617acf2b1a262bb7.svg",
+    "static/media/bishop_b.svg": "/chess-app/static/media/bishop_b.04932f63ef10dcdee115b649286230f5.svg",
+    "static/media/rook_w.svg": "/chess-app/static/media/rook_w.9e48b84f189eea24339f8a679e7a664f.svg",
+    "static/media/queen_w.svg": "/chess-app/static/media/queen_w.e195644e78392b8215dd588b143f05c9.svg",
+    "static/media/pawn_b.svg": "/chess-app/static/media/pawn_b.65485e342f98c53d4789db15863d0661.svg",
+    "static/media/pawn_w.svg": "/chess-app/static/media/pawn_w.7fbab4ab8e18494ec243350e83c5ef97.svg",
+    "index.html": "/chess-app/index.html",
+    "main.03097de6.css.map": "/chess-app/static/css/main.03097de6.css.map",
+    "main.99774e2e.js.map": "/chess-app/static/js/main.99774e2e.js.map",
+    "787.fb9c7072.chunk.js.map": "/chess-app/static/js/787.fb9c7072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03097de6.css",
+    "static/js/main.99774e2e.js"
+  ]
+}
