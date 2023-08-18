@@ -1,1 +1,1 @@
-# chess-app
+# chess_app
